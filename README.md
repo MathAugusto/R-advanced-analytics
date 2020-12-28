@@ -1,2 +1,2 @@
 # R-advanced-analytics
-Análise, limpeza e tratamento dos dados de um DataFrame usando linguagem R
+Análise, limpeza e tratamento de dados usando linguagem R
